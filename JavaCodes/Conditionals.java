@@ -1,5 +1,4 @@
 package vishwa;
-
 public class Conditionals {
     public static void main(String[] args) {
         int salary=60000;

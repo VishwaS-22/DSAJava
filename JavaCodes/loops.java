@@ -1,3 +1,4 @@
+//For,While,Do While.
 package vishwa;
 
 public class loops {

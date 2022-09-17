@@ -21,5 +21,13 @@ public class PrimeorNot {
             m++;
         }
         return m * m > v;
+        //both are same.
+        /*
+        if (m * m > v) {
+            return true;
+        } else {
+            return false;
+        }
+        */
     }
 }

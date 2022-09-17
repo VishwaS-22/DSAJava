@@ -13,7 +13,7 @@ public class ArmstrongorNot {
         int sum=0;
         while(n>0){ //153
             int rem=n%10; //3
-            sum=sum+rem*rem*rem; //0+3*3*3 =9
+            sum=sum+rem*rem*rem; //0+3*3*3 =27
             n/=10; // 150/10=15 like that....
         }
         return org == sum;

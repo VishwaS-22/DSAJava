@@ -1,7 +1,7 @@
 package vishwa;
 import java.util.*;
 public class MultidimensionalArray {
-    public static <arr1> void main(String[] args) {
+    public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
         /*
         syntax for 2d array:

@@ -1,3 +1,4 @@
+// Find whether the Given String is Palindrome or Not.
 package vishwa;
 import java.util.*;
 public class PalindromeOrNot

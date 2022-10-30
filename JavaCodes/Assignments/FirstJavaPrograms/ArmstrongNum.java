@@ -1,6 +1,5 @@
 //Printing Armstrong Numbers between the range of 2 integers.
 package vishwa;
-
 import java.util.*;
 public class ArmstrongNum
 {

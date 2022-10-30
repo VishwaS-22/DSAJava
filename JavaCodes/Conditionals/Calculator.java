@@ -14,7 +14,7 @@ public class Calculator {
                 int n1=in.nextInt();
                 int n2=in.nextInt();
                 if(op=='+'){
-                    ans=n1+n1;
+                    ans=n1+n2;
                 }
                 if(op=='-'){
                     ans=n1-n2;

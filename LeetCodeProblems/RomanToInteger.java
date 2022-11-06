@@ -1,11 +1,14 @@
 package vishwa;
 
-public class RomanToInteger{
-
-    static int romanToInt(String s) {
+public class RomanToInteger
+{
+    static int romanToInt(String s) 
+    {
         int a = 0, n = 0, p = 0;
-        for (int i = s.length() - 1; i >= 0; i--) {
-            switch (s.charAt(i)) {
+        for (int i = s.length() - 1; i >= 0; i--)
+         {
+            switch (s.charAt(i)) 
+            {
                 case 'M' -> n = 1000;
                 case 'D' -> n = 500;
                 case 'C' -> n = 100;
@@ -14,9 +17,12 @@ public class RomanToInteger{
                 case 'V' -> n = 5;
                 case 'I' -> n = 1;
             }
-            if (n < p) {
+            if (n < p) 
+            {
                 a -= n;
-            } else {
+            } 
+            else 
+            {
                 a += n;
             }
             p = n;

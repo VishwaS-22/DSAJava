@@ -1,4 +1,4 @@
-// Find the smallest letter that is greater than the target.
+// 744. Find Smallest Letter Greater Than Target
 package vishwa;
 import java.util.*;
 public class SmallestLetter

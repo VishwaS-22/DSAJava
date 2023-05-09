@@ -2,7 +2,7 @@ package vishwa;
 
 import java.util.Scanner;
 
-public class Swithexample {
+public class Switchexample {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

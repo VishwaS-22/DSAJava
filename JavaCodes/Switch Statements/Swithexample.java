@@ -60,13 +60,5 @@ public class Swithexample {
             case 6, 7 -> System.out.println("Weekend");
             default -> System.out.println("Enter a valid number");
         }
-
-
-
-
-
-
-
-
     }
 }

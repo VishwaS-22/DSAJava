@@ -1,3 +1,4 @@
+//After pasting N times, print the total length of the string.
 package vishwa;
 import java.util.*;
 public class CopyAllPasteAll {

@@ -13,7 +13,7 @@ public class LCM {
         //System.out.println(res1);
     }
     static int lcm(int a,int b){
-        return (a/gcd(a,b))*b;
+        return (a*b)/gcd(a,b);
     }
     static int gcd(int m,int n){
         if(m==0)

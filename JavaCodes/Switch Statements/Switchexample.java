@@ -2,7 +2,7 @@ package vishwa;
 
 import java.util.Scanner;
 
-public class Swithexample {
+public class Switchexample {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -60,13 +60,5 @@ public class Swithexample {
             case 6, 7 -> System.out.println("Weekend");
             default -> System.out.println("Enter a valid number");
         }
-
-
-
-
-
-
-
-
     }
 }

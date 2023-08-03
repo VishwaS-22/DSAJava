@@ -6,7 +6,7 @@ public class PrintTable
     {
         Scanner in = new Scanner(System.in);
         int n=in.nextInt();
-        for(int i=1;i<=n;i++)
+        for(int i=1;i<=10;i++)
         {
             System.out.println(n+"*"+i+"="+n*i);
         }

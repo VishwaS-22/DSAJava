@@ -1,6 +1,5 @@
 package vishwa;
 
-
 import java.util.Scanner;
 
 public class Nestedswitch {
